@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello!
+
+I am currently in the Data Science Master's program at Stockton University. I recevied a Bachelors degree from Stockton as well. I am hoping to merge my data and political passions to help campaigns and candidates win their races.
+
+I enjoy kayaking, riding my bike, and the occasional netflix binge. 
 
 <!--
 **JennHubert/JennHubert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
