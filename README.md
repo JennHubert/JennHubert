@@ -5,7 +5,7 @@ I am a data science graduate student at Stockton University with a political sci
 Feel free to [connect](www.linkedin.com/in/jennhubert), and check out my other portfolios: [Tableau Public](https://public.tableau.com/app/profile/jennifer.hubert) and [Portfolio Website](https://www.jennhubert.com)
 
 
-I enjoy kayaking, riding my bike, and the occasional netflix binge. 
+I enjoy kayaking, bike riding, and the occasional netflix binge. 
 
 <!--
 **JennHubert/JennHubert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
