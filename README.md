@@ -1,6 +1,6 @@
 ### ✨ Welcome! ✨
 
-I am a data science graduate student at Stockton University with a political science background. I anticipate graduating mid-August. I am seeking to merge my data and political skillsets to support candidates, campaigns, and technologies I believe in. I am actively seeking opportunities to deepen my data skills.
+I am a data analyst at the [Democratic Attorneys General Association](https://dems.ag). I enjoy to merging my data and political skillsets to support technologies, issues, and causes I believe in.
 
 Feel free to [Connect](https://www.linkedin.com/in/jennhubert), and check out my other portfolios: [Tableau Public](https://public.tableau.com/app/profile/jennifer.hubert) and [Portfolio Website](https://www.jennhubert.com)
 
